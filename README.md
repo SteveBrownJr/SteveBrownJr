@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SteveBrownJr
-- 👀 I’m interested in C# programming.
-- 🌱 I’m currently learning computer science on Obuda University. 
-- 💞️ I’m looking to collaborate on some homework and stuff.
+- 👀 I work as an embedded software developer.
+- 🌱 I’m currently learning computer science at Obuda University.
