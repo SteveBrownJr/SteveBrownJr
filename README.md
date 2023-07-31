@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SteveBrownJr
 - 👀 I work as an embedded software developer.
-- 🌱 I’m currently learning computer science at Obuda University.
+- 🌱 I’m currently learning computer science in Obuda University.
