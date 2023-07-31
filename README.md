@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SteveBrownJr
 - 👀 I work as an embedded software developer.
 - 🌱 I’m currently learning computer science at Obuda University.
-- 👉 Check out current project: [DIY Keyboard](https://github.com/Asapgiri/kbb-keyboard)https://github.com/Asapgiri/kbb-keyboard) I worked on the firmware myself.
+- 👉 Check out out current project: [DIY Keyboard](https://github.com/Asapgiri/kbb-keyboard)https://github.com/Asapgiri/kbb-keyboard) I worked on the firmware myself.
