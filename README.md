@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SteveBrownJr
 - 👀 I work as an embedded software developer.
-- 📚 I finished my studies at Obuda University.
+- 📚 I finished my studies at Obuda University. But some topics from my classes are still available. [Like this.](https://github.com/SteveBrownJr/SpecialTypes)
 - 👉 Check my current project: [DIY_ESP32_Quadrocopter 🌱](https://github.com/SteveBrownJr/DIY_ESP32_Quadrocopter) I worked on every single part alone.
 - 😏 If you are interested in similar DIY guides check out our Keyboard repository: [KBB-Keyboard](https://github.com/Asapgiri/kbb-keyboard). I worked on the firmware a lot.
